@@ -15,7 +15,7 @@ Aplicativo mobile para criação e acompanhamento de hábitos.
 
 ## 📸 Preview
 
-![Tela principal](https://i.postimg.cc/DfDhd1Sd/HOME.jpg)
+<img src="https://i.postimg.cc/DfDhd1Sd/HOME.jpg" alt="Home Page" width="200">
 
 ## Árvore de diretórios
 
@@ -97,3 +97,5 @@ npx expo start
 ## Troubleshooting
 
 Caso encontre um erro na inicialização, crie um comentário em [Falhas](https://github.com/LordBorge/Habitcontrol/issues/new)
+
+
